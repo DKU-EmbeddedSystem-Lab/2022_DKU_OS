@@ -42,9 +42,9 @@ The OS image to use for preferences is also on the link below.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab0 Documentation Link](0)
+[Lab0 Documentation Link](https://drive.google.com/file/d/1pBeBZlKkimcdILv7AwA26p1IwYQKCPUZ/view?usp=sharing)
 
-DKU OS Image Download Link [Link]()
+DKU OS Image Download Link [Link](https://drive.google.com/file/d/19qontuOYiDqqQVj312CjC2TqFWc5XDPS/view?usp=sharing)
 
 Root password : 1234
 
@@ -62,10 +62,9 @@ If you want to proceed to Lab1, go to command below :
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link]()
+[Lab1 Documentation Link](https://drive.google.com/file/d/1QVdx0xEbYv6G-fm2p_5tAsZ4MQEwzezK/view?usp=sharing)
 
 ## Lab2
-
 
 See the documentation for details.
 
