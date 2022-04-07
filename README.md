@@ -4,7 +4,7 @@
 This is a place for studying Operaing System in Dankook University.
 - Professor : Jongmoo Choi
 - Assistant : Hojin Shin (Email : ghwls03s@gmail.com)
-- 2022 DKU Operating System Course Information [link]()
+- 2022 DKU Operating System Course Information [link](http://embedded.dankook.ac.kr/~choijm/course/course.html#OS)
 
 
 ## Download Environment
