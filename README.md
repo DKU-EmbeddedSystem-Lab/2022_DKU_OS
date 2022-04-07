@@ -60,7 +60,7 @@ If you want to proceed to Lab1, go to command below :
 
     ./lab1_sched
 
-Documentation for conducting the assignment can be found at following link :
+Document for conducting the assignment can be found at following link :
 
 [Lab1 Document Link](https://drive.google.com/file/d/1QVdx0xEbYv6G-fm2p_5tAsZ4MQEwzezK/view?usp=sharing)
 
@@ -68,9 +68,17 @@ Documentation for conducting the assignment can be found at following link :
 
 See the documentation for details.
 
-Documentation for conducting the assignment can be found at following link :
+    cd lab2_sync
+    
+    make
+    
+    Eample) ./lab2_sync -t=4 -c=1000000 -l=0
+    
+    Meaning) -t (number of thread) -c (number of data) -l (lock type)
 
-[Lab2 Document Link]()
+Document for conducting the assignment can be found at following link :
+
+[Lab2 Document Link](https://drive.google.com/file/d/1ZwgZIyywGYhSYhMDjjMqN7DRlTICb-UA/view?usp=sharing)
 
 ## Lab3
 
@@ -120,6 +128,6 @@ If you want to proceed to Lab3-Bounus, go to command below:
   
     dmesg | grep [YOUR_NAME]
 
-See the documentation for details.
+See the document for details.
 
 [Lab3 Document Link]()
