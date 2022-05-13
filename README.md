@@ -130,4 +130,4 @@ If you want to proceed to Lab3-Bounus, go to command below:
 
 See the document for details.
 
-[Lab3 Document Link]()
+[Lab3 Document Link](https://drive.google.com/file/d/10Qz9Qc7dbKu4cm0RXhGrhZoj3uqS4EXK/view?usp=sharing)
