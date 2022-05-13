@@ -21,7 +21,7 @@ for i in {0..9..1}; do
 	done
 
 	for j in {0..99..1}; do
-		./apd mnt/$i/$j 3 "$i/$j-4"
+		./apd mnt/$i/$j 4 "$i/$j-4"
 	done
 done
 
