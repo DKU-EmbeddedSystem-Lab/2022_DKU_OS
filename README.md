@@ -84,6 +84,10 @@ Document for conducting the assignment can be found at following link :
 
 ### You must be use VirtualBox(Ubuntu Linux Env), not WSL!!
 
+Something problem in Ubuntu Image which i provided.
+
+New Ubuntu Image Upload : [Lab3 Image Link](https://drive.google.com/file/d/1lfWipurgLTlyQxotV7OJdEYPEowwhp9E/view?usp=sharing)
+
 VirtualBox image is upload at above.
 
 If you want for proceed to Lab3, go to command below :
